@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sudheer Singh</h1>
 <h3 align="center">A computer science student who is passionate about implementing and launching new projects.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ss0710" alt="ss0710" /></a> </p>
-
 - 🌱 I’m currently learning **React , Node and Express**
 
 - 💬 Ask me about **React**
