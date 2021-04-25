@@ -1,18 +1,24 @@
-<h1 align="center">Hi 👋, I'm Sudheer Singh</h1>
-<br />
+<img alt="GIF" height="175px" src="https://i.pinimg.com/originals/07/bb/69/07bb69e3ce6ba6cb15bf6c8ccdf8af09.gif" />
 
-<h3 align="center">A computer science student who is passionate about implementing and launching new projects.</h3>
-<br/>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sudheer</h1>
+<h3 align="center">I'm a passionate MERN Stack Developer from India.</h3>
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/07/bb/69/07bb69e3ce6ba6cb15bf6c8ccdf8af09.gif" />
 
-**Talking about Personal Stuffs:**
-- 🔭 I’m currently working on React and Node
-- 💬 Ask me about React
-- 👯 I’m looking to collaborate on new Projects
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sudheer-singh-6132951a2/)
+## 🙋‍♂️ About Me
 
-**Languages and Tools:**  
+- 🔭 I’m currently working on React And Node
+
+- 🌱 I’m currently learning **DSA and MERN STACK**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/sudheer-singh-6132951a2/)
+
+- ⚡ Fun fact **I Love Watching Movies And Series**
+
+## 🚀 Languages and Tools:
+
+<p align="left"> 
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
@@ -23,24 +29,41 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+</p>
+
+<p align="center">
+    <a href="https://github.com/ss0710/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sudheer's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ss0710&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Sudheer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubhamRaoniar28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Sudheer's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ss0710&show_icons=true&locale=en&layout=compact" alt="ss0710" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ss0710&show_icons=true&locale=en" alt="ss0710" /></p>
+<a href="https://github.com/ss0710/github-readme-activity-graph"><img alt="Sudheer's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ss0710&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-You have finally discovered my Github profile!!
-<br/>
-Feel free to contact
-<br/>
-Happy Coding!!
 <br/>
 
+## Connect with me:
+<p align="left">
 
-<a href="https://www.linkedin.com/in/sudheer-singh-6132951a2">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href = "https://www.linkedin.com/in/sudheer-singh-6132951a2"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/mr._mister1007/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+</p>
+
+## ❤ Views and Followers
+<a href="https://github.com/ss0710/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ss0710">
 </a>
-<a href="https://www.instagram.com/mr._mister1007/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+<a href="https://github.com/ss0710?tab=followers"><img src="https://img.shields.io/github/followers/ss0710?label=Followers&style=social" alt="GitHub Badge"></a>
