@@ -1,4 +1,4 @@
-<img alt="GIF" width="60%" height="205px" align="center" src="https://i.pinimg.com/originals/07/bb/69/07bb69e3ce6ba6cb15bf6c8ccdf8af09.gif" />
+<img alt="GIF"  height="205px" align="center" src="https://i.pinimg.com/originals/07/bb/69/07bb69e3ce6ba6cb15bf6c8ccdf8af09.gif" />
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sudheer</h1>
 <h3 align="center">I'm a passionate MERN Stack Developer from India.</h3>
