@@ -1,4 +1,4 @@
-<img alt="GIF" height="175px" src="https://i.pinimg.com/originals/07/bb/69/07bb69e3ce6ba6cb15bf6c8ccdf8af09.gif" />
+<img alt="GIF" height="175px" align="center" src="https://i.pinimg.com/originals/07/bb/69/07bb69e3ce6ba6cb15bf6c8ccdf8af09.gif" />
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sudheer</h1>
 <h3 align="center">I'm a passionate MERN Stack Developer from India.</h3>
@@ -40,8 +40,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Sudheer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubhamRaoniar28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Sudheer's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/ss0710/github-readme-stats"><img alt="Sudheer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ss0710&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/ss0710/github-readme-stats"><img alt="Sudheer's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ss0710&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
